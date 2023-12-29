@@ -10,4 +10,5 @@ https://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html
 See some other sources here:  
 https://github.com/avalon1610/LPC  
 https://github.com/DownWithUp/ALPC-Example  
+https://github.com/csandker/InterProcessCommunication-Samples  
 https://github.com/Galenika/Diminish-self-leak/tree/main/Kernel

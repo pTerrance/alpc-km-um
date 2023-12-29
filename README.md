@@ -4,7 +4,7 @@ I have provided R/W functionality as a POC. Feel free to add onto the project as
 
 While other examples of ALPC exist, most are very outdated, and none are built with game hacking in mind.
 
-Good read regarding ALPC:
+Good read regarding ALPC:  
 https://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html
 
 See some other sources here:  
